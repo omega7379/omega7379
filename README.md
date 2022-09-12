@@ -31,6 +31,6 @@
 ├─▣ Javascript</br>
 ├─▣ <a href="https://github.com/gohugoio/hugo">HUGO</a></br>
 ├─▣ Arduino (C++)</br>
-├─▣ Python 3
+├─▣ Python 3 </br>
 │</br>
 └───────────────▰▰▰</p>
