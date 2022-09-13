@@ -19,6 +19,8 @@
 │</br>
 ├─▣ Discord <a href="https://discord.gg/AaTHfjzNgT">Ω7379#2085</a></br>
 │</br>
+├─▣ Matrix @neirosystem:matrix.org</br>
+│</br>
 └───────────────▰▰▰</p>
 
 <h3>$STACK</h3>
