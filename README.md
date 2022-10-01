@@ -14,12 +14,10 @@
 ┌─────────▰▰▰</br>
 │</br>
 ├─▣ Main <a href="https://www.tiktok.com/@marveljoe727">Tiktok</a></br>
-│</br>
 ├─▣ Vtube <a href="https://www.tiktok.com/@vtuberneiro">Tiktok</a></br>
-│</br>
 ├─▣ Discord <a href="https://discord.gg/AaTHfjzNgT">Ω7379#2085</a></br>
-│</br>
 ├─▣ Matrix @neirosystem:matrix.org</br>
+├─▣ <a href="https://ko-fi.com/neirosystem">KOFI</a></br>
 │</br>
 └───────────────▰▰▰</p>
 
