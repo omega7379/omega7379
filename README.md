@@ -4,7 +4,6 @@
 
 ┌────────────────────▰▰▰
 
-│
 
 ├─▣ Alias: Neiro
 
@@ -16,7 +15,6 @@
 
 ├─▣ I am mostly available through [email](neirosystem@aol.com) and [Discord](https://discord.gg/aTHfjzNgT)
 
-│
 
 └───────────────────────────────────▰▰▰
 
