@@ -13,7 +13,7 @@
 
 ├─▣ Free-lance IT Technician
 
-├─▣ I am mostly available through [email](neirosystem@aol.com) and [Discord](https://discord.gg/aTHfjzNgT)
+├─▣ I am mostly available through email and [Discord](https://discord.gg/aTHfjzNgT)
 
 
 └───────────────────────────────────▰▰▰
@@ -28,7 +28,7 @@
 
 ├─▣ [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AaTHfjzNgT)
 
-├─▣ ![Matrix](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)(@neirosystem:matrix.org)
+├─▣ ![Matrix](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)@neirosystem:matrix.org
 
 ├─▣ [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/neirosystem)
 
@@ -68,6 +68,6 @@
 
 ├─▣ ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-├─▣ ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+├─▣ ![Kali](https://img.shields.io/badge/-Parrot%20OS-blue?style=for-the-badge&logo=linux)
 
 └───────────────────────▰▰▰
