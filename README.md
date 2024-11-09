@@ -30,7 +30,7 @@
 
 ├─▣ ![Matrix](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)@neirosystem:matrix.org
 
-├─▣ [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/neirosystem)
+├─▣ [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/neiroscustomworks)
 
 └─────────────────────────▰▰▰
 
