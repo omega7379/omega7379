@@ -22,9 +22,7 @@
 
 ┌─────────▰▰▰
 
-├─▣ [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@marveljoe727)Main 
-
-├─▣ [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@vtuberneiro)Vtube 
+├─▣ [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@marveljoe727)
 
 ├─▣ [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AaTHfjzNgT)
 
@@ -69,5 +67,7 @@
 ├─▣ ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ├─▣ ![Kali](https://img.shields.io/badge/-Parrot%20OS-blue?style=for-the-badge&logo=linux)
+
+├─▣ ![openSUSE Badge](https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=fff&style=for-the-badge)
 
 └───────────────────────▰▰▰
